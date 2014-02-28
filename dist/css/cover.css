@@ -66,6 +66,9 @@ background-color: #444;
 /* Header */
 h1.masthead-brand a {
 	font-size: 24px;
+	padding: 0;
+	display: block;
+	margin-top: -14px;
 }
 .masthead-nav > li {
   display: inline-block;
@@ -93,11 +96,11 @@ h1.masthead-brand a {
   color: #fff;
   border-bottom-color: #fff;
 }
-h1.masthead-brand.active a {
+h1.masthead-brand.active a, h1.masthead-brand a {
   color: #c9cee8;
 	text-decoration: none;
 }
-h1.masthead-brand .active a:hover {
+h1.masthead-brand .active a:hover, h1.masthead-brand a:hover  {
   color: #fff;
 	text-decoration: none;
 } 
