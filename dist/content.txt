@@ -1,0 +1,45 @@
+---
+layout: default
+title: Welcome to the Good Rat and Raven!!!
+slug: index
+---
+<p class="lead">Sounds like a dive bar in the bad part of town, but it's actually a good way to communicate my talents. I'm a good rat and raven.</p>
+
+<img src ="dist/images/raven-400.png" alt="the very smart raven" />
+<p class="lead">
+  <a href="#" class="btn btn-lg btn-primary">Learn more</a>
+</p>
+
+
+
+layout: default
+title: Say `Fly` to the Raven
+slug: raven
+---
+  <p class="lead">The Raven figures things out the first time. It's extremely independent minded and very good at solving puzzles.</p>
+  <img src ="dist/images/raven-400.png" alt="the very smart raven" />
+  <p class="lead"><a href="#" class="btn btn-lg btn-primary">Learn more</a></p>
+
+
+
+---
+layout: default
+title: Say Hello to the Good Rat
+slug: rat
+---
+  <p class="lead">When the Raven can't figure it out the first time, the good rat leaps over the walls to find the cheese.</p>
+  <img src="dist/images/good-rat.png" alt="the good rat" />
+  <p class="lead"><a href="#" class="btn btn-lg btn-primary">Learn more</a></p>
+
+
+
+---
+layout: default
+title: About the Good Rat and Raven
+slug: about
+---
+  <p class="lead">The Good Rat and the Raven are the same person: Peter Bockenthien.</p>
+  <img src="dist/images/peter-profile-1.jpg" alt="the good rat" />
+  <p class="lead"><a href="#" class="btn btn-lg btn-primary">Learn more</a></p>
+
+  
