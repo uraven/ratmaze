@@ -111,6 +111,13 @@ h1.masthead-brand .active a:hover, h1.masthead-brand a:hover  {
 	margin-bottom: 12px;
 	border: 1px solid #dadada;
 }
+@media (max-width: 767px) {
+    .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 500px;
+  }
+}
 
 @media (min-width: 768px) {
   .masthead-brand {
@@ -161,7 +168,7 @@ h1.masthead-brand .active a:hover, h1.masthead-brand a:hover  {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+    width: 500px; /* Must be percentage or pixels for horizontal alignment */
   }
 }
 
@@ -170,5 +177,12 @@ h1.masthead-brand .active a:hover, h1.masthead-brand a:hover  {
   .mastfoot,
   .cover-container {
     width: 700px;
+  }
+}
+@media (max-width: 480px) {
+    .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 100%;
   }
 }
