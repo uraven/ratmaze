@@ -67,8 +67,8 @@ background-color: #444;
  * Header
  */
 h1.masthead-brand a {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  /*margin-top: 10px;
+  margin-bottom: 10px;*/
 	font-size: 24px;
 }
 
@@ -98,11 +98,11 @@ h1.masthead-brand a {
   color: #fff;
   border-bottom-color: #fff;
 }
-h1.masthead-brand.active {
+h1.masthead-brand.active a {
   color: #c9cee8;
 	text-decoration: none;
 }
-h1.masthead-brand a:hover {
+h1.masthead-brand .active a:hover {
   color: #fff;
 	text-decoration: none;
 } 
