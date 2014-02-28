@@ -34,9 +34,9 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
   box-shadow: inset 0 0 100px rgba(0,0,0,.5);
 }
-.rat {
+/*.rat {
 	text-align: left;
-}
+}*/
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
@@ -63,15 +63,10 @@ background-color: #444;
 }
 
 
-/*
- * Header
- */
+/* Header */
 h1.masthead-brand a {
-  /*margin-top: 10px;
-  margin-bottom: 10px;*/
 	font-size: 24px;
 }
-
 .masthead-nav > li {
   display: inline-block;
 }
@@ -124,9 +119,7 @@ h1.masthead-brand .active a:hover {
 }
 
 
-/*
- * Cover
- */
+/* Cover */
 
 .cover {
   padding: 0 20px;
@@ -137,9 +130,7 @@ h1.masthead-brand .active a:hover {
 }
 
 
-/*
- * Footer
- */
+/* Footer */
 
 .mastfoot {
   color: #999; /* IE8 proofing */
@@ -147,9 +138,7 @@ h1.masthead-brand .active a:hover {
 }
 
 
-/*
- * Affix and center
- */
+/* Affix and center */
 
 @media (min-width: 768px) {
   /* Pull out the header and footer */
