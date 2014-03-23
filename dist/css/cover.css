@@ -84,7 +84,7 @@ h1.masthead-brand a {
   padding-right: 0;
   padding-left: 0;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 600;
   color: #fff; /* IE8 proofing */
   color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
@@ -119,7 +119,7 @@ h1.masthead-brand .active a:hover, h1.masthead-brand a:hover  {
     .masthead,
   .mastfoot,
   .cover-container {
-    width: 500px;
+    width: 700px;
   }
 }
 
