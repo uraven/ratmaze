@@ -37,6 +37,9 @@ body {
 .rat {
 	text-align: left;
 }
+em {
+	color: #c6cef2;
+}
 /* Extra markup and styles for table-esque vertical and horizontal centering */
 .site-wrapper {
   display: table;
