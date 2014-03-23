@@ -58,6 +58,7 @@ background-color: #444;
 	padding-top: 14px;
 	padding-bottom: 14px;
 	border-radius: 8px;
+	position: relative;
 }
 
 /* Padding for spacing */
