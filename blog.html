@@ -1,0 +1,12 @@
+---
+layout: blog
+title: Blog of the Good Rat and Raven
+slug: blog
+---
+	<h2>Fly On</h2>
+	<p>Figured it out. Can't have two `content` liquids.</p>
+  <ul class="unstyled lead">
+    {% for post in site.posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>

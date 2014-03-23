@@ -1,0 +1,19 @@
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h1 class="masthead-brand active"><a href="index.html">Good Rat and Raven</a></h1>
+              <ul class="nav masthead-nav">
+                <li{% if page.slug == "rat" %} class="active"{% endif %}>
+                <a href="rat.html">The Rat</a>
+                </li>
+                <li{% if page.slug == "raven" %} class="active"{% endif %}>
+                <a href="raven.html">The Raven</a>
+                </li>
+                <li{% if page.slug == "blog" %} class="active"{% endif %}>
+                <a href="blog.html">Blog</a>
+                </li>
+                <li{% if page.slug == "about" %} class="active"{% endif %}>
+                <a href="about.html">About</a>
+                </li>
+              </ul>
+            </div>
+          </div>

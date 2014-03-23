@@ -1,0 +1,5 @@
+name: The Good Rat and Raven
+markdown: redcarpet
+pygments: true
+permalink: title
+baseurl: /
