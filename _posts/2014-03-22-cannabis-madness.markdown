@@ -1,24 +1,22 @@
 ---
 layout: post
-title:  "Cannabis Madness"
+title:  "Vaccine Madness"
 date:   2014-03-22
 categories: marijuana
-permalink: cannabis-madness.html
+permalink: vaccine-madness.html
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+Facts do not matter in politics, only money and election considerations matter.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+While that sounds cynical, I've witnessed first hand where a party will dodge every fact with irrelevant issues.
 
+I say, "The CDC doesn't blame the unvaccinated" and they say "We need education and more of it!"
+
+It's an endless treadmill designed to make constituents give up.
+
+If you can't stand the brutal, childish bullying of politics, then you had better develop amnesia. Politicians <em>must</em> do that every day!
+<hr />
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
