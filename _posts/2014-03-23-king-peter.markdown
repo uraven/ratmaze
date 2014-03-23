@@ -18,6 +18,12 @@ This goes back to a key point of undoing centuries of dysfunctional and debilita
 
 A man's role is to uphold and co-facilitate a sacred space for his Queen to rule through Love and not anger and guilt. Until both women and men understand this men and women of this generation and the next will keep following the false teachings of past generations, which is pure insanity."
 
+That said, if women want their King to see them and accept them it is necessary that women stop losing themselves in this harmful fantasy that a man will show up and be their King. The only way a man will see His Queen is when the Queen sees Her-Self worthy of being the Divine Queen that She was born to be.
+
+This goes back to a key point of undoing centuries of dysfunctional and debilitating teachings of the patriarchal mindset. When women stop trying to control a man, men will realize who really is in control. A key to grasping this is for both women and men to fully recognize that Life is born in the womb of the Divine Feminine, not in the loins of a man. This should tell us who really is in control .
+
+A man's role is to uphold and co-facilitate a sacred space for his Queen to rule through Love and not anger and guilt. Until both women and men understand this men and women of this generation and the next will keep following the false teachings of past generations, which is pure insanity."
+
 ~ [Peter Nelson][petern]
 <hr />
 Guys call this type of relationship "my ball and chain", and other guys as "pussy-whipped".
