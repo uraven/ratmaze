@@ -15,9 +15,5 @@ Rachel Carson published "Silent Spring" in 1962. Before then it was obvious that
 Our children are at ever greater health risks from toxins of every kind. 
 
 Read how one [unlikely mom][moyers] is fighting fracking in Upstate New York.
-<hr />
-Guys call this type of relationship "my ball and chain", and other guys as "pussy-whipped".
-
-I've been saying for years the world would be a much better place if women ran it. In order for women to run it, men must stop embracing violence and destruction as their metric.
 
 [moyers]: http://billmoyers.com/episode/the-toxic-assault-on-our-children/
