@@ -18,9 +18,9 @@ This goes back to a key point of undoing centuries of dysfunctional and debilita
 
 A man's role is to uphold and co-facilitate a sacred space for his Queen to rule through Love and not anger and guilt. Until both women and men understand this men and women of this generation and the next will keep following the false teachings of past generations, which is pure insanity."
 
-The above quote is from [Peter Nelson][petern].
+~ [Peter Nelson][petern].
 <hr />
-This explains all my relationship failures, and the one I'm in now. Guys call this type of relationship "my ball and chain", and other guys as "pussy-whipped".
+Guys call this type of relationship "my ball and chain", and other guys as "pussy-whipped".
 
 I've been saying for years the world would be a much better place if women ran it. In order for women to run it, men must stop embracing violence and destruction as their metric.
 
