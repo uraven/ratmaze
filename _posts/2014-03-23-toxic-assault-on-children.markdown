@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Toxic Assualt On Our Children
+title:  Toxic Assault On Our Children
 date:   2014-03-22
 categories: health environment
 permalink: toxic-assault-on-our-children.html

@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Beg For Hemp Seeds"
 date:   2014-03-22
-categories: hemp
+category: hemp
 permalink: hickenlooper-hemp.html
 ---
 
