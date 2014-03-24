@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Political Rant No. 1
+title:  Political Rant No. 2
 date:   2014-03-22
 category: politics
 permalink: political-rant-two.html
