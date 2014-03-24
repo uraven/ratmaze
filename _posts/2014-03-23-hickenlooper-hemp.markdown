@@ -12,5 +12,3 @@ One can import hulled hemp seeds into the US. Those are not viable seeds though.
 
 <img src="/dist/images/hemphick.png" alt="Gov Hickenlooper's letter to USDA" class="img img-responsive" />
 
-<!-- [jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com -->
