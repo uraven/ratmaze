@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  HB14-1288 Kill 'em! Maim 'em!
+title:  Kill 'em! Maim 'em!
 date:   2014-03-22
 category: politics
 permalink: kill-em-maim-em.html
