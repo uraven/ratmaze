@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Divine Masculine"
-date:   2014-03-22
+date:   2014-03-23
 category: masculinity
 permalink: king-peter.html
 ---
