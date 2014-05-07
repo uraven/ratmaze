@@ -8,10 +8,11 @@ permalink: fruits-of-the-spirit.html
 <h3>Break The Chains of Legalism</h3>
 Everyone of us is chained by Legalism, which I define as being ruled by the letter of the law.
 
-Fruits of the spirit show you how to change your life to operate by the Spirit of the law.
+My book [Fruits Of The Spirit][fruits] show you how to change your life to operate by the Spirit of the law.
 
 The first 111 people to sign up with receive a 24% discount off the suggested retail price of this book. You will be able to download it as a PDF, ereader or mobi file.
 
 Sign up to [receive your discount][sign] at Peter Bockenthien.com
 
+[fruits]: http://peter.bockenthien.com/fts.html
 [sign]: http://peter.bockenthien.com/fts.html
