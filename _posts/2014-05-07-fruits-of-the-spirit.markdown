@@ -14,4 +14,4 @@ The first 111 people to sign up with receive a 24% discount off the suggested re
 
 Sign up to [receive your discount][sign] at Peter Bockenthien.com
 
-[sign]: http://peter.bockenthien.com/fts.html target="_blank"
+[sign]: http://peter.bockenthien.com/fts.html
