@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fruits Of The Spirit
-date:   2014-04-19
+date:   2014-05-07
 category: writing
 permalink: fruits-of-the-spirit.html
 ---
