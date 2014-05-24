@@ -14,5 +14,5 @@ The first 111 people to sign up with receive a 24% discount off the suggested re
 
 Sign up to [receive your discount][sign] at Peter Bockenthien.com
 
-[fruits]: http://peter.bockenthien.com/fts.html
+[fruits]: https://leanpub.com/fruitsofthespirit
 [sign]: http://peter.bockenthien.com/fts.html
